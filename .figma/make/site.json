@@ -1,0 +1,10 @@
+{
+  "description": "Create responsive React components for dashboard designs with clean code, optimized layouts, and customizable themes, perfect for developers and designers.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
